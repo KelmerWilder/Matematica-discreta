@@ -1,1 +1,2 @@
-print("Tercer intento, este archivo está conectado con Git y GitHub, sube sube keiko")
+print("Tercer intento, este archivo está conectado con Git y GitHub. Ya no subas JP")
+print("fujimori nunca más")
